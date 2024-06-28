@@ -1,4 +1,4 @@
-# chat_demo
+# demo_demo
 
 A new Flutter project.
 
